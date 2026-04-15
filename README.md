@@ -1,4 +1,4 @@
 # New project
 
-This project was created from local systemcls
+This project was created from local system.
 Created by Omkar kumar
